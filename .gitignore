@@ -1,0 +1,9 @@
+# Archivos de compilación
+/bin/
+/pkg/
+/vendor/
+
+# Archivos temporales de Go
+*.exe
+*.log
+*.out
